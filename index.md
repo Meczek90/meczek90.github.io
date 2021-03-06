@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+title: Welcome to Tomasz Caputa homepage!
+description: add this page to Your bookmarks to keep yourself up to date!
 
 You can use the [editor on GitHub](https://github.com/Meczek90/meczek90.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
